@@ -1,0 +1,1 @@
+add_executable(puzzle_5_2 main_part2.cpp)
