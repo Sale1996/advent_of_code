@@ -1,0 +1,1 @@
+add_executable(program2 main_2.cpp)
